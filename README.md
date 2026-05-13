@@ -1,74 +1,81 @@
 # 👋 Hello, I'm Pedro Benetti
 
-💻 Multiplatform Software Development student and software developer passionate about creating scalable systems, immersive experiences, and modern digital solutions.
+<div align="center">
 
-I enjoy combining **software engineering**, **creative design**, and **problem-solving** to build projects that are both functional and visually impactful.
+### 💻 Multiplatform Software Development Student  
+### 🚀 Software Developer | Unity & AR Enthusiast | System Design Lover
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
 - 🎓 Multiplatform Software Development student
-- 🧠 Interested in Software Architecture & System Design
+- 🧠 Passionate about Software Architecture & System Design
 - 📱 Mobile and Web Application Developer
 - 🕶️ Exploring AR/VR technologies with Unity & ARCore
-- 🎨 Passionate about UI/UX and creative interfaces
-- ⚙️ Focused on performance, scalability, and clean code
-- 📚 Constantly learning new technologies and development practices
+- 🎨 Focused on UI/UX and creative interfaces
+- ⚙️ Interested in scalable systems and clean code
+- 📚 Always learning new technologies and improving development practices
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<div align="center">
+
+### Languages
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
-### 🎮 Game & AR Development
+### Development Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
----
-
-### 🌐 Web & Backend
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-## 📌 Areas of Interest
-
-- System Design
-- Full-Stack Development
-- Augmented Reality
-- Cloud & Scalable Architectures
-- Streaming Platforms
-- UI/UX Design
-- Database Modeling
-- IoT & Smart Systems
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 📌 Areas of Interest
 
-### 📱 AR Applications with Unity
-Interactive augmented reality projects using Unity and ARCore for Android devices.
-
-### 💧 Smart Water Monitoring System
-IoT project using sensors to analyze water turbidity and tank volume.
-
-### ❤️ Creative Web Experiences
-Custom responsive websites with strong visual identity and immersive interfaces.
+- 🏗️ System Design
+- 🌐 Full-Stack Development
+- 🕶️ Augmented Reality
+- ☁️ Cloud & Scalable Architectures
+- 🎥 Streaming Platforms
+- 🎨 UI/UX Design
+- 🗄️ Database Modeling
+- 📡 IoT & Smart Systems
 
 ---
 
-## 📈 Currently Learning
+# 📂 Featured Projects
+
+## 🎥 Streaming Platform Architecture
+Scalable streaming platform concept focused on modular architecture, security, and performance.
+
+## 📱 AR Applications with Unity
+Interactive augmented reality experiences using Unity and ARCore.
+
+## 💧 Smart Water Monitoring System
+IoT project using sensors to analyze water turbidity and water volume.
+
+## ❤️ Creative Web Experiences
+Responsive websites with immersive interfaces and strong visual identity.
+
+---
+
+# 📈 Currently Learning
 
 - Microservices Architecture
 - Cloud Infrastructure
@@ -78,13 +85,20 @@ Custom responsive websites with strong visual identity and immersive interfaces.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Connect With Me
 
-- 📧 Email: pedrobenetti587@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/o-pedrobenetti/
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/o-pedrobenetti/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/o.pedrobenetti)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobenetti587@gmail.com)
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+<div align="center">
 
-I love mixing technology with creativity — from scalable software systems to visually immersive digital experiences.
+### ⚡ "Technology becomes more powerful when combined with creativity."
+
+</div>
