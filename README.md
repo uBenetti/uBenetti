@@ -1,13 +1,17 @@
 <div align="center">
+
   <img src="ArteFinal.jpg" alt="Pedro Benetti Banner" width="100%">
+
+I am Pedro Benetti
+
 </div>
 
-# 👋 Hello, I'm Pedro Benetti
+---
 
 <div align="center">
 
 ### 💻 Multiplatform Software Development Student
-### Software Developer | Unity Developer | AR Enthusiast | System Design Lover
+### Software Developer | Unity Developer | AR Lover | System Design Enthusiast
 
 </div>
 
@@ -134,7 +138,7 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 <div align="center">
 
-### "Technology becomes more powerful when combined with creativity."
+### "Belive and be yourself."
 
 </div>
 
