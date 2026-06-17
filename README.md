@@ -57,11 +57,12 @@
 
 ---
 
-# 📌 Areas of Interest
+# Areas of Interest
 
 - Software Architecture
 - Full-Stack Development
 - Mobile Applications
+- 3D Design
 - Augmented Reality
 - Cloud Computing
 - Streaming Platforms
@@ -71,7 +72,7 @@
 
 ---
 
-# 📂 Featured Projects
+# Featured Projects
 
 ## AR Applications with Unity
 
