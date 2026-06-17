@@ -7,13 +7,13 @@
 <div align="center">
 
 ### 💻 Multiplatform Software Development Student
-### 🚀 Software Developer | Unity Developer | AR Enthusiast | System Design Lover
+### Software Developer | Unity Developer | AR Enthusiast | System Design Lover
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 🎓 Multiplatform Software Development student
 - 🧠 Passionate about Software Architecture & System Design
@@ -25,7 +25,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <div align="center">
 
@@ -35,6 +35,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Front-End
 
@@ -43,6 +46,7 @@
 
 ### Tools & Technologies
 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,39 +59,35 @@
 
 # 📌 Areas of Interest
 
-- 🏗️ Software Architecture
-- 🌐 Full-Stack Development
-- 📱 Mobile Applications
-- 🕶️ Augmented Reality
-- ☁️ Cloud Computing
-- 🎥 Streaming Platforms
-- 🗄️ Database Modeling
-- 🎨 UI/UX Design
-- 📡 IoT & Smart Systems
+- Software Architecture
+- Full-Stack Development
+- Mobile Applications
+- Augmented Reality
+- Cloud Computing
+- Streaming Platforms
+- Database Modeling
+- UI/UX Design
+- IoT & Smart Systems
 
 ---
 
 # 📂 Featured Projects
 
-## 🎥 Streaming Platform Architecture
-
-Scalable streaming platform concept focused on modular architecture, security, and performance.
-
-## 📱 AR Applications with Unity
+## AR Applications with Unity
 
 Interactive augmented reality experiences using Unity and ARCore.
 
-## 💧 Smart Water Monitoring System
+## Smart Water Monitoring System
 
 IoT project using sensors to analyze water turbidity and water volume.
 
-## ❤️ Creative Web Experiences
+## Creative Web Experiences
 
 Responsive websites with immersive interfaces and strong visual identity.
 
 ---
 
-# 📈 Currently Learning
+# Currently Learning
 
 - Microservices Architecture
 - Cloud Infrastructure
@@ -121,7 +121,7 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 ---
 
-# 🤝 Connect With Me
+# Connect With Me
 
 <div align="center">
 
@@ -137,7 +137,7 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 <div align="center">
 
-### ⚡ "Technology becomes more powerful when combined with creativity."
+### "Technology becomes more powerful when combined with creativity."
 
 </div>
 
