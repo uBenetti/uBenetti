@@ -89,6 +89,26 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 ---
 
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PedroBenetti&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroBenetti&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroBenetti&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
 # 🤝 Connect With Me
 
 <div align="center">
