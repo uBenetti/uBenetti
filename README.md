@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="ArteFinal.jpg" alt="Banner Pedro Benetti" width="100%">
+</div>
+
 # 👋 Hello, I'm Pedro Benetti
 
 <div align="center">
