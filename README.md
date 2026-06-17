@@ -102,17 +102,13 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uBenetti&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uBenetti&theme=github_dark"/>
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uBenetti&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=uBenetti&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uBenetti&theme=github_dark"/>
 
 </div>
+
+<br>
 
 <div align="center">
 
