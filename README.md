@@ -1,4 +1,3 @@
-```md
 <div align="center">
   <img src="ArteFinal.jpg" alt="Pedro Benetti Banner" width="100%">
 </div>
@@ -98,27 +97,25 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 ---
 
-# 📊 Main Technologies
+# 📊 GitHub Analytics
 
 <div align="center">
 
-| Technology | Experience |
-|------------|------------|
-| C# | ████████████████████ |
-| JavaScript | ██████████ |
-| SQL | ████████ |
-| Python | ████████ |
-| HTML/CSS | █████ |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=uBenetti&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uBenetti&layout=compact&theme=transparent&hide_border=true"/>
 
 </div>
 
----
+<div align="center">
 
-# 📈 GitHub Stats
+<img width="70%" src="https://streak-stats.demolab.com?user=uBenetti&theme=transparent&hide_border=true"/>
+
+</div>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroBenetti&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=uBenetti&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -143,4 +140,4 @@ Responsive websites with immersive interfaces and strong visual identity.
 ### ⚡ "Technology becomes more powerful when combined with creativity."
 
 </div>
-```
+
