@@ -1,4 +1,4 @@
-[🇧🇷 Português](README-PT.md)
+[🇧🇷 Portuguese/Português](README-PT.md)
 
 <div align="center">
 
