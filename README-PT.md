@@ -13,7 +13,7 @@ Eu sou Pedro Benetti
 <div align="center">
 
 ### 💻 Estudante de Desenvolvimento de Software Multiplataforma
-### Desenvolvedor de Software | Unity Engine | Amante de Realidade Aumentada | Entusiasta em Design de Sistemas
+### Desenvolvedor de Software | Unity Engine | Amante de Realidade Aumentada | Entusiasta em Design e Design de Sistemas
 
 </div>
 
