@@ -133,13 +133,9 @@ Sites responsivos com interfaces imersivas e identidade visual marcante.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobenetti587@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-
 ### "Acredite e seja você mesmo."
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=false&animation=blinking&color=FFD700" />
 
 </div>
 
