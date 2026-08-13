@@ -6,9 +6,7 @@
 
 Eu sou Pedro Benetti
 
-</div>
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 <div align="center">
 
@@ -17,7 +15,7 @@ Eu sou Pedro Benetti
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 ## Sobre mim
 
@@ -60,7 +58,7 @@ Eu sou Pedro Benetti
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # Áreas de interesse
 
@@ -75,7 +73,7 @@ Eu sou Pedro Benetti
 - Design de UI/UX
 - IoT e Sistemas Inteligentes
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # Projetos em Destaque
 
@@ -91,7 +89,7 @@ Projeto de IoT que utiliza sensores para analisar a turbidez e o volume da água
 
 Sites responsivos com interfaces imersivas e identidade visual marcante.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # Aprendendo atualmente
 
@@ -101,7 +99,7 @@ Sites responsivos com interfaces imersivas e identidade visual marcante.
 - Sistemas de backend escaláveis
 - Padrões de projeto de front-end modernos
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # 📊 Estatistícas do GitHub
 
@@ -121,7 +119,7 @@ Sites responsivos com interfaces imersivas e identidade visual marcante.
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # Conecte-se comigo
 
