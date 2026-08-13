@@ -124,7 +124,7 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 ---
 
-# Connect With Me
+# Conect with me
 
 <div align="center">
 
@@ -134,13 +134,8 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobenetti587@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-
 ### "Belive and be yourself."
 
-</div>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=false&animation=blinking&color=FFD700" />
 
+</div>
