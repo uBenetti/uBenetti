@@ -8,8 +8,6 @@ I am Pedro Benetti
 
 </div>
 
----
-
 <div align="center">
 
 ### 💻 Multiplatform Software Development Student
@@ -17,7 +15,7 @@ I am Pedro Benetti
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 ## About Me
 
@@ -29,7 +27,7 @@ I am Pedro Benetti
 - ⚙️ Interested in scalable systems and clean code
 - 📚 Always learning new technologies and improving development practices
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # Tech Stack
 
@@ -61,7 +59,7 @@ I am Pedro Benetti
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # Areas of Interest
 
@@ -92,7 +90,7 @@ IoT project using sensors to analyze water turbidity and water volume.
 
 Responsive websites with immersive interfaces and strong visual identity.
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # Currently Learning
 
@@ -102,7 +100,7 @@ Responsive websites with immersive interfaces and strong visual identity.
 - Scalable Backend Systems
 - Modern Front-End Design Patterns
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # 📊 GitHub Analytics
 
@@ -122,7 +120,7 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 </div>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # Conect with me
 
