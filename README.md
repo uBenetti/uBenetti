@@ -136,6 +136,5 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 ### "Belive and be yourself."
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&reversal=false&animation=blinking&color=FFD700" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:B8860B,35:FFD700,65:FFF1A8,100:B8860B" />
 </div>
