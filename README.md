@@ -74,7 +74,7 @@ I am Pedro Benetti
 - UI/UX Design
 - IoT & Smart Systems
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
 # Featured Projects
 
