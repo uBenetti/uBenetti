@@ -1,4 +1,6 @@
-[🇧🇷 Portuguese/Português](README-PT.md)
+<a href="README-PT.md">
+  <img src="PT-br.png" alt="Português Brasileiro" width="120">
+</a>
 
 <div align="center">
 
