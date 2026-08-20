@@ -1,5 +1,5 @@
 <a href="README-PT.md">
-  <img src="PT-br.png" alt="Português Brasileiro" width="120">
+  <img src="EN-us.png" alt="American English" width="120">
 </a>
 
 <div align="center">
