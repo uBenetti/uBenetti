@@ -1,5 +1,6 @@
-[🇺🇸 English/Inglês](README.md)
-
+<a href="README.md">
+  <img src="PT-br.png" alt="Português Brasileiro" width="120">
+</a>
 <div align="center">
 
   <img src="ArteFinal.jpg" alt="Pedro Benetti Banner" width="100%">
