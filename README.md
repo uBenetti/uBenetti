@@ -1,10 +1,10 @@
 <a href="README-PT.md">
-  <img src="EN-us.png" alt="American English" width="120">
+  <img src="Assets/EN-us" alt="American English" width="120">
 </a>
 
 <div align="center">
 
-  <img src="ArteFinal.jpg" alt="Pedro Benetti Banner" width="100%">
+  <img src="/Assets/ArteFinal.jpg" alt="Pedro Benetti Banner" width="100%">
 
 I am Pedro Benetti
 
