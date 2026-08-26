@@ -1,7 +1,7 @@
+<div align="center">
 <a href="README.md">
   <img src="Assets/PT-br.png" alt="Português Brasileiro" width="120">
 </a>
-<div align="center">
 
   <img src="/Assets/ArteFinal.jpg" alt="Pedro Benetti Banner" width="100%">
 
