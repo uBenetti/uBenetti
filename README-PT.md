@@ -113,7 +113,7 @@ Sites responsivos com interfaces imersivas e identidade visual marcante.
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=uBenetti&theme=github-compact&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph-blue-psi.vercel.app/graph?username=uBenetti&theme=github-compact&hide_border=true"/>
 
 </div>
 
