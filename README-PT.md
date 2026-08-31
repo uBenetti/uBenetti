@@ -30,7 +30,7 @@ Eu sou Pedro Benetti
 
 <div align="center">
 
-### Lionguagens
+### Linguagens
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,mysql,java,html,css,git,postgresql,mongodb" />
@@ -43,7 +43,7 @@ Eu sou Pedro Benetti
 
 ### Ferramentas & Tecnologias
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,unity,github,vscode,blender,pycharm,photoshop,jenkins,gradle,spring,docker" />
+  <img src="https://skillicons.dev/icons?i=firebase,unity,github,vscode,blender,pycharm,photoshop,jenkins,gradle,spring,docker,arduino" />
 </p>
 
 </div>
