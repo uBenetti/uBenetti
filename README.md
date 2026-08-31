@@ -48,7 +48,7 @@ I am Pedro Benetti
 
 ### Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=firebase,unity,github,vscode,blender,pycharm,photoshop,jenkins,gradle,spring,docker" />
+  <img src="https://skillicons.dev/icons?i=firebase,unity,github,vscode,blender,pycharm,photoshop,jenkins,gradle,spring,docker,arduino" />
 </p>
 
 </div>
