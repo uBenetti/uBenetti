@@ -115,11 +115,8 @@ Sites responsivos com interfaces imersivas e identidade visual marcante.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-pedrobenetti/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/o-pedrobenetti/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/o.pedrobenetti) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedrobenetti587@gmail.com)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/o.pedrobenetti)
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobenetti587@gmail.com)
 
 ### "Acredite e seja você mesmo."
 
