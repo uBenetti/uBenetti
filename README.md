@@ -116,15 +116,12 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
-# Conect with me
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/o-pedrobenetti/)
+# Conect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/o.pedrobenetti)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/o-pedrobenetti/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/o.pedrobenetti) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedrobenetti587@gmail.com)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrobenetti587@gmail.com)
 
 ### "Belive and be yourself."
 
