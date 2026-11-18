@@ -1,52 +1,51 @@
 <div align="center">
-
-<a href="README-PT.md">
-  <img src="Assets/EN-us.png" alt="American English" width="120">
+<a href="README.md">
+  <img src="Assets/PT-br.png" alt="Português Brasileiro" width="120">
 </a>
 
   <img src="/Assets/ArteFinal.jpg" alt="Pedro Benetti Banner" width="100%">
 
-I am Pedro Benetti
+Eu sou Pedro Benetti
 
-</div>
-
-<div align="center">
-
-### 💻 Multiplatform Software Development Student
-### Software Developer | Unity Developer | AR Lover | System Design Enthusiast
+### 💼 Estagiário em Data Analytics na Vivo (Telefônica Brasil)
+### Desenvolvedor de Software | Data Analytics Intern | Desenvolvedor Mobile e Desktop | Amante de Realidade Aumentada | Entusiasta em Design e Design de Sistemas
 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
-## About Me
+## Sobre mim
 
-- 🎓 Multiplatform Software Development student
-- 🧠 Passionate about Software Architecture & System Design
-- 📱 Mobile and Web Application Developer
-- 🕶️ Exploring AR/VR technologies with Unity & ARCore
-- 🎨 Focused on UI/UX and creative interfaces
-- ⚙️ Interested in scalable systems and clean code
-- 📚 Always learning new technologies and improving development practices
+- 💼 Estagiário em Data Analytics na Vivo (Telefônica Brasil)
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma
+- 🧠 Apaixonado por Arquitetura de Software e Design de Sistemas
+- 📱 Desenvolvedor de aplicativos móveis e web
+- 🕶️ Explorando tecnologias de RA/RV com Unity e ARCore
+- 🎨 Focado em UI/UX e interfaces criativas
+- ⚙️ Interessado em sistemas escaláveis e código limpo
+- 📊 Atuando com indicadores, análise de dados e soluções voltadas ao ambiente corporativo de telecomunicações
+- 📚 Sempre aprendendo novas tecnologias e aprimorando práticas de desenvolvimento
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
-# Tech Stack
+# Stacks Tecnológicas
 
 <div align="center">
 
-### Languages
+### Linguagens
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,mysql,java,html,css,git,postgresql,mongodb" />
 </p>
 
 ### Frameworks
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,react,django,spring" />
 </p>
 
-### Tools & Technologies
+### Ferramentas & Tecnologias
+
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,unity,github,vscode,blender,pycharm,photoshop,jenkins,gradle,spring,docker,arduino" />
 </p>
@@ -55,48 +54,48 @@ I am Pedro Benetti
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
-# Areas of Interest
+# Áreas de interesse
 
-- Software Architecture
-- Full-Stack Development
-- Mobile Applications
-- 3D Design
-- Augmented Reality
-- Cloud Computing
-- Streaming Platforms
-- Database Modeling
-- UI/UX Design
-- IoT & Smart Systems
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
-
-# Featured Projects
-
-## AR Applications with Unity
-
-Interactive augmented reality experiences using Unity and ARCore.
-
-## Smart Water Monitoring System
-
-IoT project using sensors to analyze water turbidity and water volume.
-
-## Creative Web Experiences
-
-Responsive websites with immersive interfaces and strong visual identity.
+- Arquitetura de Software
+- Desenvolvimento Full-Stack
+- Aplicativos Móveis
+- Design 3D
+- Realidade Aumentada
+- Computação em Nuvem
+- Plataformas de Streaming
+- Modelagem de Banco de Dados
+- Design de UI/UX
+- IoT e Sistemas Inteligentes
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
-# Currently Learning
+# Projetos em Destaque
 
-- Microservices Architecture
-- Cloud Infrastructure
-- Advanced Database Optimization
-- Scalable Backend Systems
-- Modern Front-End Design Patterns
+## Aplicações de RA com Unity
+
+Experiências interativas de realidade aumentada utilizando Unity e ARCore.
+
+## Sistema Inteligente de Monitoramento de Água
+
+Projeto de IoT que utiliza sensores para analisar a turbidez e o volume da água.
+
+## Experiências Web Criativas
+
+Sites responsivos com interfaces imersivas e identidade visual marcante.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
-# 📊 GitHub Analytics
+# Aprendendo atualmente
+
+- Arquitetura de microsserviços
+- Infraestrutura em nuvem
+- Otimização avançada de bancos de dados
+- Sistemas de backend escaláveis
+- Padrões de projeto de front-end modernos
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
+
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -116,14 +115,14 @@ Responsive websites with immersive interfaces and strong visual identity.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
-<div align="center">
+# Conecte-se comigo
 
-# Conect with me
+<div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/o-pedrobenetti/) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/o.pedrobenetti) [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:pedrobenetti587@gmail.com)
 
 
-### "Belive and be yourself."
+### "Acredite e seja você mesmo."
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:B8860B,35:FFD700,65:FFF1A8,100:B8860B" />
 </div>
