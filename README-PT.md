@@ -7,8 +7,8 @@
 
 Eu sou Pedro Benetti
 
-### 💻 Estudante de Desenvolvimento de Software Multiplataforma
-### Desenvolvedor de Software | Desenvolvedor Mobile e DeskTop | Amante de Realidade Aumentada | Entusiasta em Design e Design de Sistemas
+### 💼 Estagiário em Data Analytics na Vivo (Telefônica Brasil)
+### Desenvolvedor de Software | Data Analytics Intern | Desenvolvedor Mobile e Desktop | Amante de Realidade Aumentada | Entusiasta em Design e Design de Sistemas
 
 </div>
 
@@ -16,12 +16,14 @@ Eu sou Pedro Benetti
 
 ## Sobre mim
 
+- 💼 Estagiário em Data Analytics na Vivo (Telefônica Brasil)
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma
 - 🧠 Apaixonado por Arquitetura de Software e Design de Sistemas
 - 📱 Desenvolvedor de aplicativos móveis e web
 - 🕶️ Explorando tecnologias de RA/RV com Unity e ARCore
 - 🎨 Focado em UI/UX e interfaces criativas
-- ⚙️ Interessado em sistemas escaláveis ​​e código limpo
+- ⚙️ Interessado em sistemas escaláveis e código limpo
+- 📊 Atuando com indicadores, análise de dados e soluções voltadas ao ambiente corporativo de telecomunicações
 - 📚 Sempre aprendendo novas tecnologias e aprimorando práticas de desenvolvimento
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
@@ -37,11 +39,13 @@ Eu sou Pedro Benetti
 </p>
 
 ### Frameworks
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,react,django,spring" />
 </p>
 
 ### Ferramentas & Tecnologias
+
 <p>
   <img src="https://skillicons.dev/icons?i=firebase,unity,github,vscode,blender,pycharm,photoshop,jenkins,gradle,spring,docker,arduino" />
 </p>
@@ -91,7 +95,7 @@ Sites responsivos com interfaces imersivas e identidade visual marcante.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&section=footer&color=0:0D1117,50:FFD700,100:0D1117" />
 
-# 📊 Estatistícas do GitHub
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
@@ -122,4 +126,3 @@ Sites responsivos com interfaces imersivas e identidade visual marcante.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:B8860B,35:FFD700,65:FFF1A8,100:B8860B" />
 </div>
-
